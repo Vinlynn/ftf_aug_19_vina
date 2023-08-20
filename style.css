@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#hero{
+    height:400px;
+    background:navy;    
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 150px;
+    line-height: 1.9em;
+}
+#hero a{
+    display: block;
+    color:#fff;
+    border: 1px solid #fff;
+    width:18%;
+    margin:15px auto;
+    text-decoration: none;
+    padding:10px 15px;
+}
+
+.nav1 {
+    background-color: rgb(192, 240, 240);
+    overflow: hidden;
+}
+
+.nav1 li {
+    float: left;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    list-style: none;
+    padding-left: 150px;
+    justify-content: 0;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+    transition: 0.3;
+}
+
+.card {
+    width: 300px; 
+    padding: 20px;  
+    border: 1px solid darkgray;
+    background: rgb(145, 197, 245);
+    margin: 0 auto;
+    box-shadow: 5px 10px 20px rgba(36, 33, 33, 0.1);
+}
+
+.card h1 {
+    font-size: 24px;
+    margin-bottom: bottom 30px;
+}
+
+.card p {
+    font-size: 15px;
+}
+
+.card-1 {
+    float: left;
+    width: 300px;
+    margin: 3px 7px;
+   
+}
+
+.card-2 {
+    float: left;
+    width: 300px;
+    margin: 3px 7px;
+}
+
+.card-3 {
+    float: left;
+    width: 300px;
+    margin: 3px 7px;
+
+}
+.card-container {
+    padding-left: 70px;
+   
+}
+.card h1 {
+    text-align: center;
+}
+
+.card p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: rgb(red, rgb(4, 46, 4), blue)
+}
+    
